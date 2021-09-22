@@ -8,9 +8,11 @@
         }
     ],
     "repositories": [
+        {"type": "path", "url": "full/path"},
         {"type": "path", "url": "subrepos/*"}
     ],
     "require": {
+        "bburnichon/full-path": "*@dev",
         "bburnichon/subrepo": "*@dev"
     }
 }

@@ -1,0 +1,11 @@
+{
+    "name": "bburnichon/subrepo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Benoît Burnichon",
+            "email": "bburnichon@deezer.com"
+        }
+    ],
+    "require": {}
+}

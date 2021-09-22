@@ -1,0 +1,16 @@
+{
+    "name": "bburnichon/renovate-composer-path",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Benoît Burnichon",
+            "email": "bburnichon@deezer.com"
+        }
+    ],
+    "repositories": [
+        {"type": "path", "url": "subrepos/*"}
+    ],
+    "require": {
+        "bburnichon/subrepo": "*@dev"
+    }
+}

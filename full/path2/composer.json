@@ -1,0 +1,11 @@
+{
+    "name": "bburnichon/full-path",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Benoît Burnichon",
+            "email": "bburnichon@deezer.com"
+        }
+    ],
+    "require": {}
+}

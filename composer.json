@@ -8,13 +8,9 @@
         }
     ],
     "repositories": [
-        {"type": "path", "url": "full/path2", "canonical": false, "options": {"versions": {"bburnichon/full-path": "2.0"}}},
-        {"type": "path", "url": "full/path1.1", "canonical": false, "options": {"versions": {"bburnichon/full-path": "1.1"}}},
-        {"type": "path", "url": "full/path1", "options": {"versions": {"bburnichon/full-path": "1.0"}}},
-        {"type": "path", "url": "subrepos/*"}
+        {"type": "path", "url": "full/path1"}
     ],
     "require": {
-        "bburnichon/full-path": "^1.0",
-        "bburnichon/subrepo": "*@dev"
+        "bburnichon/full-path": "*@dev"
     }
 }

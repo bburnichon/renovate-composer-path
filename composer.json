@@ -8,7 +8,8 @@
         }
     ],
     "repositories": [
-        {"type": "path", "url": "full/path1"}
+        {"type": "path", "url": "full/path1"},
+        {"packagist": false}
     ],
     "require": {
         "bburnichon/full-path": "*@dev"
